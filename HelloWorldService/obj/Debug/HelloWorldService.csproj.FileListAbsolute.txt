@@ -1,0 +1,5 @@
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.csprojAssemblyReference.cache
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\bin\Debug\HelloWorldHost.exe.config
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\bin\Debug\HelloWorldHost.exe
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\bin\Debug\HelloWorldHost.pdb
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\bin\Debug\HelloWorldService.dll
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\bin\Debug\HelloWorldService.pdb
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\obj\Debug\HelloWorldHost.csprojAssemblyReference.cache
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\obj\Debug\HelloWorldHost.csproj.CopyComplete
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\obj\Debug\HelloWorldHost.exe
+C:\Users\Jeffrey Chen\source\repos\HelloWorldService\HelloWorldHost\obj\Debug\HelloWorldHost.pdb

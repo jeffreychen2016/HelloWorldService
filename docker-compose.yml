@@ -1,0 +1,16 @@
+version: '3'
+
+services: 
+  hello_world_service:
+    image: hellow_world_service:v1
+    container_name: host
+    networks:
+      service_net:
+          ipv4_address: 172.22.0.100
+
+networks:
+  service_net:
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.22.0.0/16
